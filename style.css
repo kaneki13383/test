@@ -9,7 +9,7 @@
   font-weight: normal;
   font-style: normal;
 }
-.demo-icon {
+.demo_icon {
   font-family: "fontello";
   font-style: normal;
   font-weight: normal;
@@ -304,6 +304,7 @@ header div button p{
 }
 
 .section_3 div .block_1 button{
+    cursor: pointer;
     background: #0962e8;
     border: none;
     width: 199px;
